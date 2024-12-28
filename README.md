@@ -21,15 +21,9 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/AbdullahC4J/AbdullahC4J/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
  <a href="https://www.linkedin.com/in/abdullahmaher-10a10m1010/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="LinkedIn" /></a>
-  <a href="https://codeforces.com/profile/AbdullahC4J"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Codeforces_logo.svg" width="47" height="35" alt="Codeforces" /></a>
+  <a href="https://codeforces.com/profile/AbdullahC4J"><img src="https://github.com/Abanoub-Asaad/Abanoub-Asaad/blob/main/Images/codeforcesLogo.png" width="47" height="35" alt="Codeforces" /></a>
   <a href="https://leetcode.com/u/7haqcQFq4y/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="47" height="35" alt="LeetCode" /></a>
   <a href="mailto:abdullah.lvxt@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="Gmail" /></a>
   <a href="https://youtube.com/yourchannel"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="35" alt="YouTube" /></a>
